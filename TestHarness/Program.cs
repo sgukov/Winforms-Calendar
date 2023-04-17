@@ -13,6 +13,7 @@ namespace TestHarness
         [STAThread]
         static void Main()
         {
+            // Тестовый комментарий
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault( false );
             Application.Run( new Form1() );
